@@ -1,1 +1,1 @@
-# Studentmanagement
+A Student Management System 🎓 using JSP, Servlet, JDBC, and MySQL enables **Create** (INSERT ✨), **Read** (SELECT 📖), **Update** (UPDATE 🔄), and **Delete** (DELETE 🗑️) student records. JSP handles the frontend 🎨, Servlets process requests ⚙️, JDBC connects to MySQL 🏛️, ensuring dynamic web application development 🚀.
